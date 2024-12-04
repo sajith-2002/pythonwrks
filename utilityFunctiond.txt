@@ -1,0 +1,21 @@
+print("message",end)  => print a message in console
+
+type(object)   => return datatype of object
+
+input("message")  => read value from console
+
+round(object,precision)
+
+len()
+
+range(start,stop,step)
+
+min(num1,num2) return smallest number
+
+collections == list,dictionary,
+
+
+
+
+
+

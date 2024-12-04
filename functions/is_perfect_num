@@ -1,0 +1,15 @@
+def is_perfect_number(num):
+
+    original_num=num
+
+    total=0
+
+    for i in range(1,6):
+
+        if num%i==0:
+
+            total=total+i
+    
+    return total==original_num
+
+print(is_perfect_number(7))             
